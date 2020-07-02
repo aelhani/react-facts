@@ -31,3 +31,5 @@ State can only affect components "below" in the tree
 Keys help React identify which items have changed  
 Keys serve as hint but they don’t get passed to components  
 # Formit for handling forms in React ?  
+React recommands Composition over inheritance
+In React, we Start With A Mock
